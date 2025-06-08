@@ -10,4 +10,4 @@
 - №3 разработка функционала таблицы Выдача книг
 
 ## Скриншоты
-![alt text](https://github.com/chernyaevsa/library/blob/main/image.png?raw=true)
+![Главный скриншот](https://github.com/chernyaevsa/library/blob/main/git/image.png?raw=true)
